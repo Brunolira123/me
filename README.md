@@ -1,61 +1,79 @@
 # 🚀 Bruno Lira
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+Docker;Open+to+Remote+%26+International+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Flutter+%7C+Docker+%7C+PostgreSQL;Open+to+Remote+%26+International+Opportunities" />
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-💻 Backend Developer focused on building scalable and efficient solutions using **Java & Spring Boot**.
+💻 Full Stack Developer with experience building **web, mobile and backend solutions**.
 
-🚀 Passionate about:
-- Software Architecture  
-- Microservices  
-- Cloud Computing  
-- Clean Code  
-- Performance Optimization  
+🚀 Strong stack in:
+
+- Java  
+- Spring Boot  
+- React.js  
+- Flutter  
+- Docker  
+- PostgreSQL  
+- SQL  
+- Linux  
+- Git  
 
 🌍 European Citizen 🇮🇹 (Italy)  
-📍 Based in Brazil | Available Worldwide  
+📍 Based in Brazil | Available for Remote Opportunities
 
 🇧🇷 Portuguese | 🇺🇸 English | 🇮🇹 Italian
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,docker,linux,git,github,mysql,postgresql,idea,vscode" />
-</p>
-
----
-
-## 📈 GitHub Stats
+# 🛠️ Tech Stack
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,flutter,docker,postgres,git,github,linux,vscode,idea" />
 </p>
 
 ---
 
-## 🏆 Goals 2026
+# 📊 GitHub Stats
 
-✅ Become a stronger Java Backend Engineer  
-✅ Contribute to international projects  
-✅ Improve Cloud & DevOps skills  
-✅ Work with modern scalable systems  
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 📫 Contact
+# 🚀 What I Build
+
+✅ Backend APIs with Java + Spring Boot  
+✅ Responsive Web Apps with React  
+✅ Cross-platform Mobile Apps with Flutter  
+✅ Containerized environments with Docker  
+✅ Database modeling with PostgreSQL / SQL  
+✅ Business solutions focused on performance
+
+---
+
+# 🎯 Current Focus
+
+- Scalable architectures  
+- Cloud & DevOps  
+- Clean Code  
+- Performance optimization  
+- International career growth
+
+---
+
+# 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
 
-✉️ yourmail@email.com
+✉️ seuemail@email.com
 
 ---
 
-## ⚡ Motto
+# ⚡ Mindset
 
-> Keep building. Keep learning. Keep evolving.
+> Code with purpose. Build with quality. Grow without limits.

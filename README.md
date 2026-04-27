@@ -1,46 +1,61 @@
-# 👋 Olá, eu sou Bruno Lira
+# 🚀 Bruno Lira
 
-💻 Desenvolvedor Backend focado em **Java | Spring Boot | APIs REST | SQL | Docker | Linux**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+Docker;Open+to+Remote+%26+International+Opportunities" />
 
-🚀 Buscando evoluir constantemente em:
-- Arquitetura de Software
-- Microsserviços
-- Cloud Computing
-- Clean Code
-- Performance & Escalabilidade
+---
 
-🌍 Cidadão Europeu 🇮🇹 (Itália)  
-📍 Brasil | Disponível para oportunidades remotas e internacionais
+## 👨‍💻 About Me
+
+💻 Backend Developer focused on building scalable and efficient solutions using **Java & Spring Boot**.
+
+🚀 Passionate about:
+- Software Architecture  
+- Microservices  
+- Cloud Computing  
+- Clean Code  
+- Performance Optimization  
+
+🌍 European Citizen 🇮🇹 (Italy)  
+📍 Based in Brazil | Available Worldwide  
+
+🇧🇷 Portuguese | 🇺🇸 English | 🇮🇹 Italian
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring,docker,linux,git,github,mysql,postgresql,idea,vscode" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](SEU_LINKEDIN)
-
-✉️ Email profissional: seuemail@email.com
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## ⚡ Sobre mim
+## 🏆 Goals 2026
 
-Sempre buscando aprender novas tecnologias e construir soluções eficientes, escaláveis e de impacto real.
+✅ Become a stronger Java Backend Engineer  
+✅ Contribute to international projects  
+✅ Improve Cloud & DevOps skills  
+✅ Work with modern scalable systems  
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+
+✉️ yourmail@email.com
+
+---
+
+## ⚡ Motto
+
+> Keep building. Keep learning. Keep evolving.
